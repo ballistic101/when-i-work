@@ -2,12 +2,12 @@
 	"name": "ballistic101/when-i-work-assignment",
 	"description": "The homework assignment for When I Work.",
 	"version": "1.0.0",
-	"type": "library",
+	"type": "project",
 	"authors": [
 		{
 			"name": "Michael Boyko",
 			"email": "mboyko@gmail.com",
-			"role": "Developer"
+			"role": "Software Developer"
 		}
 	],
 	"autoload": {
